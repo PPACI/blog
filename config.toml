@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "https://ppaci.github.io/blog/"
 title = "Pierre's blog"
 theme = "hugo-coder"
 languagecode = "en"
