@@ -1,9 +1,11 @@
 # About Pierre
 
-Laboris dolor aliqua ullamco dolor id fugiat tempor mollit est eiusmod exercitation elit. Ullamco labore et officia consectetur. Ut non labore culpa anim pariatur in deserunt id. Cupidatat pariatur labore eu ut pariatur ullamco sit laborum qui est anim qui proident minim. Pariatur voluptate deserunt dolor ex occaecat. Ut exercitation voluptate anim nisi adipisicing. Aliqua officia ad Lorem do fugiat ea et veniam non aliqua consequat do irure aliqua.
+I'm currently a Cloud Engineer specialized in **Azure** and **Kubernetes** working in Luxembourg 🇱🇺.
+You can call also call me a SRE or a DevOps.
+You won't be wrong since I always worked in startups and so had multiple hats...
 
-Laborum adipisicing est proident anim Lorem exercitation. Magna voluptate id dolore aliquip quis irure culpa et nulla cupidatat consequat ex. Reprehenderit dolor enim excepteur ad in proident. Irure ipsum sunt sint non ex esse ipsum sunt laboris non eu est.
+Also I had a past life in **Deep Learning** where I took care of developping an automated tensorflow based learning platform.
 
-Commodo ullamco deserunt laboris excepteur officia laboris minim ea do ut officia aliquip. Eu tempor ipsum fugiat labore aliquip proident mollit consequat nostrud. Ullamco excepteur in fugiat nostrud elit culpa velit do Lorem quis et quis. Enim et anim excepteur ipsum nulla laborum pariatur incididunt.
+You can check what I do on Github or Twitter. I'm always willing to discuss about tech, so feel free to contact!
 
-Culpa irure officia deserunt commodo aliqua id ex. Veniam nulla quis consequat excepteur aliquip proident. Culpa in mollit laborum aute voluptate dolor et eu eu mollit ut velit. Do reprehenderit commodo esse enim excepteur nostrud sunt officia in non. Ea quis laboris commodo tempor ipsum cupidatat excepteur laborum enim eu anim consectetur excepteur ad. Cupidatat dolor voluptate consectetur eu nulla. Tempor quis laborum voluptate eu laborum aliqua deserunt est ex.
+Last but not least, you can consider me as a coffee nerd.
