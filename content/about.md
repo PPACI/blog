@@ -1,6 +1,6 @@
 # About Pierre
 
-I'm currently a Cloud Engineer specialized in **Azure** and **Kubernetes** working in Luxembourg 🇱🇺.
+I'm currently a Cloud Engineer specialized in **Azure** and **Kubernetes** working in the Luxembourgish financial industry 🇱🇺.
 You can call also call me a SRE or a DevOps.
 You won't be wrong since I always worked in startups and so had multiple hats...
 
