@@ -1,0 +1,11 @@
+.navigation {
+    background-color: darkorange;
+}
+
+.navigation a:hover, .navigation a:focus {
+    color: whitesmoke;
+}
+
+.avatar img {
+    width: initial;
+}
