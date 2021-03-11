@@ -65,3 +65,7 @@ disqusShortname = "yourdiscussshortname"
   name = "About"
   weight = 2
   url = "about/"
+
+# Analytics
+[params.googleTagManager]
+  id = "G-M45JP65EY1"
