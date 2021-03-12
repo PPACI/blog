@@ -3,8 +3,6 @@ date: 2021-03-11
 title: When regulation drive ops innovation
 ---
 
-# When regulation drive ops innovation
-
 ## Craving for regulation
 
 In the financial sector, we like regulation. Like we **crave for it**.
